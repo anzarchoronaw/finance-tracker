@@ -1,2 +1,15 @@
-# finance-tracker
-A React web app to log, view, and delete personal expenses — synced in real-time with Firebase Firestore and secured via Firebase Authentication.
+# Personal Finance Tracker
+
+Tracks expenses with real-time Firebase syncing.
+
+## Stack
+React, Firebase
+
+## Features
+- Add/delete/view expenses
+- Auth system
+
+## Setup
+1. Connect Firebase project
+2. Add config in `firebase.js`
+3. Run `npm start`
